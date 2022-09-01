@@ -1,7 +1,11 @@
-### Hi there 👋
-- :orange_book: Focusing on Swift & iOS
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rainy-zhang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+- 🔭 I’m currently working on **WanTong Tech**
+- 🌱 I’m currently use **Java** & **MySQL**
+- 📫 How to reach me: 
+  - Email: rainy_zhang@foxmail.com
+  - Phone: MTU2NTA4NzA0MDY=
+
 
 
 <!--
