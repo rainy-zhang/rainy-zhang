@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Java Web**
 - :black_nib: I’m blog on [CSDN](https://blog.csdn.net/qq_38325614?type=blog)
-- 📫 How to reach me: 
-  - Email: rainy_zhang@foxmail.com
-  - Phone: MTU2NTA4NzA0MDY=
+- 📫 How to reach me: rainy_zhang@foxmail.com
 
 
 <!--
