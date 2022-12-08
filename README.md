@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **Java Web**
-- :black_nib: I’m blog on [CSDN](https://blog.csdn.net/qq_38325614?type=blog)
+- :black_nib: I’m blog on [CSDN](https://blog.csdn.net/qq_38325614?type=blog)、[CSDN](https://rainy-zhang.github.io/)
 - 📫 How to reach me: rainy_zhang@foxmail.com
 
 
