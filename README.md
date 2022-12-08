@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rainy-zhang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-- 🔭 I’m currently working on **Java Web**
+- 👨‍💻 I’m currently working on **Java Web**
 - :black_nib: I’m blog on [CSDN](https://blog.csdn.net/qq_38325614?type=blog)、[Github Pages](https://rainy-zhang.github.io/)
 - 📫 How to reach me: rainy_zhang@foxmail.com
 
